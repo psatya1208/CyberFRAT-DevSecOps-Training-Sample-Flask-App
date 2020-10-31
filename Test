@@ -1,6 +1,1 @@
-repos:
-repo: https://girhub.com/pre-commit/pre-commit-hooks
-rev: v3.3.0
-hooks:
-id: detect-aws-credentials
-id: detect-private-key
+
